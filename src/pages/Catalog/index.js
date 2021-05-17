@@ -18,7 +18,7 @@ import {
   ProductButtonText,
 } from "./styles";
 
-export default function App() {
+export default function Catalogo() {
   const [products, setProducts] = useState([
     {
       id: "1",
